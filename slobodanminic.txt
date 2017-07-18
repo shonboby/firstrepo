@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Slobodan Minic
 14.04.1987
+=======
+Zarko NN
+>>>>>>> new_branch
